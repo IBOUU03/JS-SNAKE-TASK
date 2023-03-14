@@ -39,6 +39,7 @@ body {
   background-color: rgb(218, 63, 49);
   position: relative;
   color: rgb(218, 63, 49);
+  border-radius: 50%;
 }
 
 #over-area {
