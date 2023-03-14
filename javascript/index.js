@@ -54,7 +54,6 @@ function restartGame() {
         snake.style.left = `${snakePosition.left}px`;
         score = 0
         scoreSnake.innerText = score;
-        snakeGame();
       });
 }
   function placeFood() {
